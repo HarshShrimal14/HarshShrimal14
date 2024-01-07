@@ -1,6 +1,7 @@
 ![Header](https://raw.githubusercontent.com/HarshShrimal14/HarshShrimal14/master/github-header-harsh.png)
-<h1 align="center">Hi 👋, I'm Harsh Shrimal</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+### Hi there 👋
+
+I am Harsh Shrimal, a passionate Fullstack developer from India.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshshrimal14&label=Profile%20views&color=0e75b6&style=flat" alt="harshshrimal14" /> </p>
 
