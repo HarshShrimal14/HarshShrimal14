@@ -1,3 +1,4 @@
+![Header](./[github-header-image(1).png])
 <h1 align="center">Hi 👋, I'm Harsh Shrimal</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
